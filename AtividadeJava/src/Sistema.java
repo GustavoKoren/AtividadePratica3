@@ -112,7 +112,7 @@ public class Sistema {
                 System.out.println("Informe o nome do supervisor do estagiário:");
                 String nomeSupervisorEstagiario = scanner.nextLine();
 
-                System.out.println("Informe o salário do estagiário:");
+                System.out.println("Informe o valor da hora do estagiário:");
                 float salarioEstagiario = scanner.nextFloat();
                 scanner.nextLine(); // Limpa o buffer do scanner
 
